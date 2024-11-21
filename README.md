@@ -34,3 +34,8 @@ This means the number of leaves is n!.
 If the sorting algorithm x has a $O(n)$ run time, it wouldn't be able to correctly sort the elements since it needs to be able to access all of the leaves, and not have leaves missing.
 Since there are n! leaves, it's not possible to be done in $O(n)$ time.
 This means X is not correct.
+
+“I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.”
